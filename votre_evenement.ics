@@ -1,9 +1,11 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-BEGIN:VEVENT
-SUMMARY:U'wine Night Paris 
-DESCRIPTION:un coktail dinatoire avec la découverte de 5 domaines et de leurs vignerons
-DTSTART;TZID=Europe/Paris:20240207T200000
-DTEND;TZID=Europe/Paris:20240207T230000
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ajouter à votre calendrier</title>
+</head>
+<body>
+  <a href="https://raw.githubusercontent.com/alexxx2456/votre_evenement_/main/votre_evenement.ics" download="evenement.ics">Ajouter à votre calendrier</a>
+</body>
+</html>
